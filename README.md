@@ -2,7 +2,7 @@
 
 ### Analyzing Loan Applications
 
-**Author:** Christopher Hunt
+**Author:** Christopher Hunt Jr.
 
 ### Business Challenge:
 
