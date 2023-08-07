@@ -1,28 +1,27 @@
-# Prediction of Loan Applications
+![image](https://github.com/chrishunt11/Prediction-of-Loan-Applications/assets/123383359/9d6ae577-9426-4ddf-b464-aae1aef9d51d)
 
-### Analyzing Loan Applications
+# Predicting Loan Applications
+
+### Investigating Loan Applications
 
 **Author:** Christopher Hunt Jr.
 
 ### Business Challenge:
 
-Financial institutions encounter the challenge of accurately assessing the risk associated with the approval of loan applications. A prominent concern they often encounter pertains to the customer's creditworthiness and likelihood of loan repayment. To address this matter diligently, gathering comprehensive customer information becomes imperative to make well-informed decisions.
+Financial institutions are tasked with accurately evaluating the risk involved in approving loan applications. A common concern is understanding whether customers are creditworthy and likely to repay loans. To address this, comprehensive customer data is crucial for making well-informed lending decisions.
 
 ### Data Source:
-- [Eligibilty Prediction for Loan](https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan)
-
+- [Eligibility Prediction for Loan](https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan)
 
 ### Data Dictionary:
 - [Loan Data Dictionary](https://drive.google.com/file/d/19zb-Z80Pt9fRZN7Khs8q3t3m3xrAu6bk/view?usp=sharing)
 
-
-##### To prepare this data, a cleaning process was performed, followed by a Exploratory Data Analysis (EDA)
+##### The data underwent a thorough cleaning process and then underwent Exploratory Data Analysis (EDA).
 
 #### Exploratory Data Analysis:
 
-- During the exploratory data analysis (EDA), we utilized histograms, bar plots, and count plots to visualize the data distribution across all columns, which offered valuable insights into the loan application process.
+- During the exploration phase, we used histograms, bar plots, and count plots to visually understand how data is distributed across columns. This method helped us gain insights into the loan application process.
 
-- Of particular note was the prevalence of male applicants.
+- We observed a significant presence of male applicants, indicating a clear gender distribution in the dataset.
 
-![male-vs-female- loan](https://github.com/chrishunt11/Prediction-of-Loan-Applications/assets/123383359/5141ae08-3fd5-4299-a283-4a23d1d3e876)
-
+![Male vs. Female Loan Applicants](https://github.com/chrishunt11/Prediction-of-Loan-Applications/assets/123383359/5141ae08-3fd5-4299-a283-4a23d1d3e876)
